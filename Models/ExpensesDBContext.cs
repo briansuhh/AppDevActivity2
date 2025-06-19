@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebApplication1.Models
+namespace AppDevActivity2.Models
 {
     public class ExpensesDbContext : DbContext
     {
